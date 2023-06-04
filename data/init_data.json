@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "name": "Dark theme UI"
+        },
+        {
+            "name": "Multi-tab"
+        },
+        {
+            "name": "Export to PDF"
+        },
+        {
+            "name": "Import from CSV"
+        }
+    ],
+    "users": [
+        {
+            "email": "thomas@gmail.com"
+        },
+        {
+            "email": "leo@gmail.com"
+        },
+        {
+            "email": "ali@gmail.com"
+        }
+    ]
+}

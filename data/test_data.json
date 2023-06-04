@@ -1,0 +1,21 @@
+{
+    "features": [
+        {
+            "name": "feature_01"
+        },
+        {
+            "name": "feature_02"
+        },
+        {
+            "name": "feature_03"
+        }
+    ],
+    "users": [
+        {
+            "email": "user01@gmail.com"
+        },
+        {
+            "email": "user02@gmail.com"
+        }
+    ]
+}
